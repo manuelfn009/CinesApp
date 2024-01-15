@@ -21,6 +21,7 @@ let generar = document.querySelector("#btn");
 
 generar.addEventListener("click", function () {
   container.innerHTML = "";
+  contA = 0;
   let pantalla = document.createElement("div");
   pantalla.className = "screen";
   container.appendChild(pantalla);
