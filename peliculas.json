@@ -1,0 +1,20 @@
+{
+    "peliculas": [
+        {
+            "precio": "10",
+            "nombre": "Vengadores: Endgame ($10)"
+        },
+        {
+            "precio": "12",
+            "nombre": "Joker ($12)"
+        },
+        {
+            "precio": "8",
+            "nombre": "Toy Story 4 ($8)"
+        },
+        {
+            "precio": "9",
+            "nombre": "El rey león ($9)"
+        }
+    ]
+}
